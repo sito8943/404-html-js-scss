@@ -1,2 +1,2 @@
 # 404-html-js-scss
-Page 404
+404 Page  Template 
